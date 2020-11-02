@@ -1,0 +1,4 @@
+cpu 
+keyboard
+mouse
+monitor
